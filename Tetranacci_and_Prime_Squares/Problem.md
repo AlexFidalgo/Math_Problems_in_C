@@ -11,3 +11,5 @@ But not for 88 or 100.
 In addition, calcute the Tetranacci Number of n. The Tetranacci series represent the n=4 case of the Fibonacci n-step numbers and is given by:
 
 T(n) = T(n-1) + T(n-2) + T(n-3) + T(n-4) with T(0)=0, T(1)=1, T(2)=1, T(3)=2.
+
+Keep in mind that the Tetranacci series grow very rapidly, so for the input number n, always check if the system will be able to perform the Tetranacci calculation.
