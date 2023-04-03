@@ -2,7 +2,7 @@ Given a sequence of number inputted by the user, check if each one is the sum of
 
 87 = 22 + 32 + 52 + 72
 
-Also for 1002172
+Also for 1002172:
 
 1002172 = 491^2 + 499^2 + 503^2 + 509^2
 
