@@ -84,5 +84,5 @@ int main() {
 
 /* To run from the terminal (assuming the file with the main function is called play.c): 
 gcc -o play play.c overflow.c
-play.exe
+play.exe (or .\play.exe)
 */
