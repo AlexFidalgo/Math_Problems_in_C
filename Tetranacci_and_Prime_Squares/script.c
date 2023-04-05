@@ -85,4 +85,9 @@ int main() {
 /* To run from the terminal (assuming the file with the main function is called play.c): 
 gcc -o play play.c overflow.c (-o specifies the output file name for the compiled program (play in this case))
 play.exe (or .\play.exe)
+
+If it's in another folder (and no overflow in this example)
+gcc -o output/play play.c
+.\output\play.exe (./output/play.exe também funciona)
+
 */
